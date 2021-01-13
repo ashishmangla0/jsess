@@ -31,10 +31,6 @@ console.log("Before:" , pens);
 //console.log("after:" , pens);
 
 
-
-
-
-
 // methods that  create a copy of array
 // var newPens = pens.slice()
 // console.log("new pens : ", newPens);
@@ -43,8 +39,12 @@ console.log("Before:" , pens);
 // var result = pens.indexOf("orange",1);
 // console.log("The index position is: ", result );
 
-var arrayString = pens.join(" | ");
-console.log("String from array: ", arrayString);
+// var arrayString = pens.join(" | ");
+// var arrayString = pens.join(" & ");
+// var arrayString = pens.join(" - ");
+// console.log("String from array: ", arrayString);
+
+
 
 
 
